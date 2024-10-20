@@ -1,4 +1,6 @@
-# PFDI-20  
+This repository currently contains files related to the Pelvic Floor Disorders Index (PFDI-20), including various formats of the questionnaire. The PFDI-20 is widely used to assess symptoms related to pelvic organ prolapse, colorectal-anal distress, and urinary distress. Over time, additional tools and resources related to pelvic floor disorders and urogynecologic care may be added to this repository.
+
+# PFDI-20
   
 ## What is the PFDI-20?  
   
