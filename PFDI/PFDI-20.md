@@ -1,4 +1,4 @@
-# Pelvic Floor Disability Index (PFDI-20)
+# Pelvic Floor Disorders Index (PFDI-20)
 
 ### Instructions
 Please answer all of the questions in the following survey. These questions will ask you if you have certain bowel, bladder, or pelvic symptoms and, if you do, how much they bother you. Answer these by circling the appropriate number. While answering these questions, please consider your symptoms over the last 3 months. The PFDI-20 has 20 items and 3 scales of your symptoms. All items use the following format with a response scale from 0 to 4:
